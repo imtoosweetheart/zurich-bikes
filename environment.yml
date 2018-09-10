@@ -4,3 +4,4 @@ channels:
   - defaults
 dependencies:
   - numpy=1.14.3
+  - octave_kernel
