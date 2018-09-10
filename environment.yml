@@ -5,5 +5,5 @@ channels:
 dependencies:
   - numpy=1.14.3
   - octave_kernel
-  - pandas=1.15.1
+  - pandas
   - matplotlib=2.2.3
